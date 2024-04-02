@@ -1,6 +1,6 @@
 # Loan-Prediction
 Data science, Ml-efficiency, Ml-training, Ml-system, Data analysis 
-**Loan Approval Predictive Modeling**
+
 
 
 ### Project Overview:
